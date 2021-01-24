@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
-    "titleTemplate": "%s",
+    "title": "Shaheer Ashan",
+    "titleTemplate": "%",
     "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "siteUrl": "https://idmx268-shaheerashan.netlify.app/",
+    "image": "/assets/adam-kring-j1rpmqas82o-unsplash.jpg",
+    "iconimage": "/assets/adam-kring-j1rpmqas82o-unsplash.jpg",
+    "twitterUsername": "@AshanShaheer"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
