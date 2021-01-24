@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Shaheer Ashan
+tagline: Student-Gamer
+featuredImage: /assets/martin-katler-rho7f8qskh4-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+This is Shaheer Ashan. Fellow student at Raritan Valley Community College and an avid gamer. Love my new Xbox Series X and its performance abilities.
