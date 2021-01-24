@@ -1,8 +1,8 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Get in touch with me!
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+**Need more information on which console you are trying to buy, please feel free to do so!**
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+**Using the form below you can get in touch with quick replies. Thank you!**
