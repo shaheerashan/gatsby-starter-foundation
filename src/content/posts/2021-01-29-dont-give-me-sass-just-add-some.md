@@ -4,6 +4,7 @@ title: Dont Give me Sass, Just Add Some!
 slug: /Add-Some-Sass
 date: 2021-01-28 23:44
 description: Don't be afraid of Sass, use it wisely
+featuredImage: /assets/sass.png
 ---
 
 
