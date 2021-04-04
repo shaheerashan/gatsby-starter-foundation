@@ -4,7 +4,7 @@ title: Do Not Be Boring, Have Some Fun!
 slug: /animation
 date: 2021-04-04 19:00
 description: "Animations or transitions both are great tools. "
-featuredImage: /assets/x84g2geg.jfif
+featuredImage: /assets/1_7rr1n9dbuy3z7cfxedw7aw.png
 ---
 Why Should You Use CSS Animation?
 
